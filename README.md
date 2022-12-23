@@ -36,11 +36,11 @@
 <table>
   <tr>
     <td>
-     tropical place:</td>
-    <td><a href="https://github.com/alexovna/">Tropical place</a></td>
+     Integral sheme:</td>
+    <td><a href="https://github.com/alexovna/"> Integral sheme</a></td>
     </tr>
     <tr>
-      <td>Integral Sheme</a></td>
+      <td>status</a></td>
       <td>👩‍🏭</a></td>
      </tr>
 </table>
