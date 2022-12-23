@@ -16,7 +16,7 @@
     </tr>
     <tr>
       <td>status</a></td>
-      <td>finish</a></td>
+      <td>🏁</a></td>
      </tr>
 </table>
 
@@ -29,6 +29,18 @@
     </tr>
     <tr>
       <td>status</a></td>
-      <td>in</a></td>
+      <td>🚦</a></td>
+     </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+     tropical place:</td>
+    <td><a href="https://github.com/alexovna/">Tropical place</a></td>
+    </tr>
+    <tr>
+      <td>Integral Sheme</a></td>
+      <td>👩‍🏭</a></td>
      </tr>
 </table>
